@@ -25,7 +25,8 @@ plt.show()
 
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/a9568443-3d72-4bc1-a8b2-f3989d0baf70)
+![image](https://github.com/user-attachments/assets/9431ba29-0a27-4f72-ad64-e7cf465a21b9)
+
 
 
 
